@@ -1,0 +1,3 @@
+../Core/Src/servo_lib.c:12:6:init_servo	24	static
+../Core/Src/servo_lib.c:25:10:map	24	static
+../Core/Src/servo_lib.c:31:6:servo_angle	32	static
